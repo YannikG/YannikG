@@ -55,4 +55,4 @@ In my apprenticeship, I started to code and was fascinated. Now, 7 years later, 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/yannikgartmann"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T7JEP5Q)
