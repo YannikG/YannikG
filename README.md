@@ -8,7 +8,7 @@ In my apprenticeship, I started to code and was fascinated. Now, 7 years later, 
 
 * 🌍  I'm based in Bern, Switzerland 
 * 🖥️  See my portfolio at [My Website](http://bytepeak.ch) 
-* ✉️  You can contact me at [info@bytepeak.ch](mailto:info@bytepeak.ch) 
+* ✉️  You can contact me at [yannik@bytepeak.ch](mailto:yannik@bytepeak.ch) 
 * 🧠  I'm learning working with docker on small scale projects
 * 🤝  I'm open to collaborating on open source projects and data based web apps
 
